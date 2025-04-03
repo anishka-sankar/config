@@ -1,0 +1,11 @@
+
+build:
+ version: v1.0
+cards:
+ message: "Welcome to Eazy bank!"
+ contactDetails:
+  name: "ani"
+  email: "a@gmail.com"
+ onCallSupport:
+  - (555)12233
+  - (555)21323 

@@ -1,0 +1,14 @@
+spring:
+ config:
+  activate:
+   on-profile: "prod"
+build:
+ version: v1.0
+cards:
+ message: "Welcome to Eazy bank for prod env!"
+ contactDetails:
+  name: "ani"
+  email: "a@gmail.com"
+ onCallSupport:
+  - (555)12233
+  - (555)21323 

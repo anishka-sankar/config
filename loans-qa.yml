@@ -1,0 +1,14 @@
+spring:
+ config:
+  activate:
+   on-profile: "qa"
+build:
+ version: v2.0
+loans:
+ message: "Welcome to Eazy bank QA env!"
+ contactDetails:
+  name: "ani"
+  email: "a@gmail.com"
+ onCallSupport:
+  - (555)12233
+  - (555)21323 
