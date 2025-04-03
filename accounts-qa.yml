@@ -7,7 +7,7 @@ build:
  version: v2.0
 
 accounts:
- message: "Welcome to Eazy bank QA env!"
+ message: "Welcome to Eazy bank QA env! Hello"
  contactDetails:
   name: "ani"
   email: "a@gmail.com"
