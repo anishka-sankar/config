@@ -5,7 +5,7 @@ spring:
 build:
  version: v1.0
 cards:
- message: "Welcome to Eazy bank for prod env!"
+ message: "Welcome to Eazy bank for prod env! Hello"
  contactDetails:
   name: "ani"
   email: "a@gmail.com"
