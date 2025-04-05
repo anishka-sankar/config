@@ -6,7 +6,7 @@ build:
  version: v3.0
 
 accounts:
- message: "Welcome to Eazy bank Prod env!"
+ message: "Welcome to Eazy bank Prod env! Hello"
  contactDetails:
   name: "ani"
   email: "a@gmail.com"
